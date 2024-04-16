@@ -1,0 +1,12 @@
+{
+    "name": "GrabEmByThePussy",
+    "symbol": "GBTP",
+    "uri": "https://ih1.redbubble.net/image.5230481631.9520/raf,360x360,075,t,fafafa:ca443f4786.jpg", // URL to the image
+    "seller_fee_basis_points": 100, // Represents a 1% seller fee
+    "creators": [
+        {
+            "address": "DozxLjkhbedKNYAD4vebSPWExKNs38MdjMJ4vDADazw",
+            "share": 100
+        }
+    ]
+}
